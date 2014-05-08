@@ -212,4 +212,4 @@ pip-log.txt
 *.mo
 
 #Mr Developer
-.mr.developer.cfg
+#.mr.developer.cfg
