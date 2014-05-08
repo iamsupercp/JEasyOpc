@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38"
+   name=""
+   committed-date="2006-12-03T18:53:07.139181Z"
+   url="https://svn.sourceforge.net/svnroot/jeasyopc/JEasyOpc/lib/Delphi"
+   last-author="arnal2"
+   kind="dir"
+   uuid="1b9a7a96-4b1e-0410-9bcb-890ecea9c50a"
+   repos="https://svn.sourceforge.net/svnroot/jeasyopc"
+   revision="39"/>
+<entry
+   committed-rev="29"
+   name="OPCEnum.dcu"
+   text-time="2006-11-10T20:55:52.625000Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="7a5c446b4d1db5b03312ee9115d23d18"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:55.187500Z"/>
+<entry
+   committed-rev="2"
+   name="JOPC.identcache"
+   text-time="2006-10-22T15:11:04.718750Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="cfbd3ad13f9f89a3a5a220680ebc4922"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:55.250000Z"/>
+<entry
+   committed-rev="2"
+   name="JOPC.res"
+   text-time="2006-10-22T15:11:04.734375Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="f738572575d9ad310b65bde184085d06"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:55.328125Z"/>
+<entry
+   committed-rev="23"
+   name="JCustomOpc.cfg"
+   text-time="2006-10-22T15:11:04.796875Z"
+   committed-date="2006-10-22T14:54:45.294704Z"
+   checksum="9611156c22d86144b2c350df8cb27703"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:55.390625Z"/>
+<entry
+   committed-rev="38"
+   name="UOPCQueue.dcu"
+   text-time="2006-12-03T18:35:12.609375Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="5636e61a208b512d45869416ce65b5e1"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:55.515625Z"/>
+<entry
+   committed-rev="2"
+   name="JOPC.cfg"
+   text-time="2006-10-22T15:11:04.875000Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="9611156c22d86144b2c350df8cb27703"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:55.593750Z"/>
+<entry
+   committed-rev="38"
+   name="UOPCQueue.pas"
+   text-time="2006-12-03T18:35:04.000000Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="115c5fae61bd9650f46ca0189de68c5d"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:55.687500Z"/>
+<entry
+   committed-rev="30"
+   name="UVariant.dcu"
+   text-time="2006-11-17T16:23:29.609375Z"
+   committed-date="2006-11-17T19:34:15.303472Z"
+   checksum="585551397a889c93d0c9bc32fb7606ae"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-11-14T17:34:33.578125Z"/>
+<entry
+   committed-rev="2"
+   name="JNI_MD.INC"
+   text-time="2006-10-22T15:11:05.000000Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="42592be187452317fe323b4bade50ead"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:55.765625Z"/>
+<entry
+   committed-rev="29"
+   name="OPCCOMN.dcu"
+   text-time="2006-11-10T20:55:52.546875Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="52936e06ddf4326162e13ba4b7681d8d"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:55.828125Z"/>
+<entry
+   committed-rev="40"
+   name="JCustomOpc.dpr"
+   text-time="2007-02-18T17:55:48.000000Z"
+   committed-date="2007-02-18T18:01:25.622757Z"
+   checksum="cc4413a09eed8e7e63355ab49a8b7539"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:55.984375Z"
+   revision="40"/>
+<entry
+   committed-rev="38"
+   name="UCustomOPC.dcu"
+   text-time="2006-12-03T15:16:59.984375Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="2df3321ded98a5207bbb13a18e953131"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:56.187500Z"/>
+<entry
+   committed-rev="30"
+   name="UVariant.pas"
+   text-time="2006-11-17T16:23:28.000000Z"
+   committed-date="2006-11-17T19:34:15.303472Z"
+   checksum="73bda5b5d93926c05cb1c8f795e0b6fc"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="30"
+   name="OPCutils.dcu"
+   text-time="2006-11-17T19:22:59.281250Z"
+   committed-date="2006-11-17T19:34:15.303472Z"
+   checksum="cd3587959fc860d76935d11a0cb02d67"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:56.656250Z"/>
+<entry
+   committed-rev="29"
+   name="JCustomOPC.identcache"
+   text-time="2006-11-14T17:32:20.781250Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="1b72110fe8a75e304ec06819c266e6e0"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:56.734375Z"/>
+<entry
+   committed-rev="38"
+   name="UOPC.dcu"
+   text-time="2006-12-03T14:57:08.687500Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="0fec7fe4706c1a8cea9b75018c62297e"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:57.125000Z"/>
+<entry
+   committed-rev="30"
+   name="OPCtypes.dcu"
+   text-time="2006-11-16T21:58:51.578125Z"
+   committed-date="2006-11-17T19:34:15.303472Z"
+   checksum="5230c2f95a63a2dea51a9ff3f14b23a3"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:57.250000Z"/>
+<entry
+   committed-rev="2"
+   name="OPCCOMN.pas"
+   text-time="2006-10-22T15:11:05.234375Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="082d6284f8de516a8166d5e5cbc03a80"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:57.312500Z"/>
+<entry
+   committed-rev="29"
+   name="JCustomOpc.bdsproj.local"
+   text-time="2006-11-14T16:52:56.000000Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="66e713e091bbd4e4492d259b18010871"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:57.390625Z"/>
+<entry
+   committed-rev="30"
+   name="UOPCExceptions.dcu"
+   text-time="2006-11-16T21:58:51.593750Z"
+   committed-date="2006-11-17T19:34:15.303472Z"
+   checksum="a6e8a580788ee94db6cdcb580455101f"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:57.593750Z"/>
+<entry
+   committed-rev="38"
+   name="UCustomOPC.pas"
+   text-time="2006-12-03T15:16:42.000000Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="3f9d0594bf1bcda1cacca8a140437317"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:57.656250Z"/>
+<entry
+   committed-rev="38"
+   name="JUtils.dcu"
+   text-time="2006-12-03T15:06:55.421875Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="d3ff127af0dbaa86f7ff2c53e7e7043e"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:58.250000Z"/>
+<entry
+   committed-rev="30"
+   name="OPCutils.pas"
+   text-time="2006-11-17T19:22:58.000000Z"
+   committed-date="2006-11-17T19:34:15.303472Z"
+   checksum="0e80c2c4591a84b370d3f94090d00d53"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:58.187500Z"/>
+<entry
+   committed-rev="38"
+   name="UOPCBrowser.dcu"
+   text-time="2006-12-03T14:57:08.656250Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="4ec9a857fa4c673ac4b618a704e732a5"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:57.921875Z"/>
+<entry
+   committed-rev="38"
+   name="UOPCAsynch.dcu"
+   text-time="2006-12-03T18:20:52.187500Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="5da460ac43490fff8744fdbead26d9e8"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:58.593750Z"/>
+<entry
+   committed-rev="23"
+   name="JCustomOpc.bdsproj"
+   text-time="2006-10-22T15:11:05.828125Z"
+   committed-date="2006-10-22T14:54:45.294704Z"
+   checksum="1bf12f369b4a30a024c059d107da0cf8"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:59.187500Z"/>
+<entry
+   committed-rev="2"
+   name="OPCenum.pas"
+   text-time="2006-10-22T15:11:05.750000Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="4d644b73b375a88b2a4e799c739d7b07"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:59.062500Z"/>
+<entry
+   committed-rev="2"
+   name="OPCtypes.pas"
+   text-time="2006-10-22T15:11:05.687500Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="6255bfd36acd56646e021fc0447a2751"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:58.921875Z"/>
+<entry
+   committed-rev="29"
+   name="UOPC.pas"
+   text-time="2006-11-14T16:40:26.000000Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="6d8187df20ebf5c18c9a22294ea5aee4"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:58.781250Z"/>
+<entry
+   committed-rev="29"
+   name="UOPCExceptions.pas"
+   text-time="2006-11-14T16:46:56.000000Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="cf2c3e627152df9d236eb7fce629fb9e"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:01.390625Z"/>
+<entry
+   committed-rev="30"
+   name="JNI.dcu"
+   text-time="2006-11-16T21:58:51.562500Z"
+   committed-date="2006-11-17T19:34:15.303472Z"
+   checksum="42ada8f3dcf22cec95b62cc16f7df82e"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:01.312500Z"/>
+<entry
+   committed-rev="2"
+   name="JUtils.pas"
+   text-time="2006-10-22T15:11:06.046875Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="e5a4204cc18bb16fa2e787af3610ae61"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:01.593750Z"/>
+<entry
+   committed-rev="31"
+   name="UOPCBrowser.pas"
+   text-time="2006-11-18T09:58:04.000000Z"
+   committed-date="2006-11-18T10:25:08.745272Z"
+   checksum="4f90c6fb129ead951cd0837cab3e75ff"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:01.515625Z"/>
+<entry
+   name="ModelSupport"
+   kind="dir"/>
+<entry
+   committed-rev="38"
+   name="UOPCGroup.dcu"
+   text-time="2006-12-03T17:49:37.828125Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="814d03b249e2ff28122a677358384045"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:01.984375Z"/>
+<entry
+   committed-rev="29"
+   name="UOPCAsynch.pas"
+   text-time="2006-11-12T21:27:00.000000Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="1c6003e9da6c35a97640e344e13c1d7b"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:02.125000Z"/>
+<entry
+   committed-rev="38"
+   name="UOPCItem.dcu"
+   text-time="2006-12-03T18:03:42.593750Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="7c946bd23b78115f84003f66387080b5"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:02.453125Z"/>
+<entry
+   committed-rev="30"
+   name="OPCDA.dcu"
+   text-time="2006-11-16T21:58:51.578125Z"
+   committed-date="2006-11-17T19:34:15.303472Z"
+   checksum="f3a37953bd284fafba921a2c0826208c"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:03.046875Z"/>
+<entry
+   committed-rev="2"
+   name="JNI.pas"
+   text-time="2006-10-22T15:11:06.281250Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="2ef738f52aefece171e58e4cdab5e66e"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:03.984375Z"/>
+<entry
+   committed-rev="38"
+   name="UOPCGroup.pas"
+   text-time="2006-12-03T17:49:34.000000Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="c5cc5af1c06aa35daa3cbd94fb9fa87c"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:04.125000Z"/>
+<entry
+   committed-rev="29"
+   name="UOPCItem.pas"
+   text-time="2006-11-14T17:30:54.000000Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="ef87c9a597775911bb87ad1c9c80d70b"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:04.250000Z"/>
+<entry
+   committed-rev="2"
+   name="OPCDA.pas"
+   text-time="2006-10-22T15:11:06.484375Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="738f167f50824a93173cd694d668566e"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:04.656250Z"/>
+</wc-entries>

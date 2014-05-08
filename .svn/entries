@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="39"
+   name=""
+   committed-date="2006-12-30T16:08:54.027881Z"
+   url="https://svn.sourceforge.net/svnroot/jeasyopc/JEasyOpc"
+   last-author="arnal2"
+   kind="dir"
+   uuid="1b9a7a96-4b1e-0410-9bcb-890ecea9c50a"
+   repos="https://svn.sourceforge.net/svnroot/jeasyopc"
+   prop-time="2006-10-22T15:11:32.093750Z"
+   revision="39"/>
+<entry
+   committed-rev="34"
+   name=".classpath"
+   text-time="2006-11-21T20:51:45.671875Z"
+   committed-date="2006-11-21T21:08:07.040591Z"
+   checksum="d7dccec36fedf95c0e04264de28e421b"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:36.640625Z"/>
+<entry
+   committed-rev="38"
+   name=".project"
+   text-time="2006-12-03T10:51:26.265625Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="32f50700f4c2dd3f09c8cf559cff6262"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:10:36.718750Z"/>
+<entry
+   name="doc"
+   kind="dir"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="build.xml"
+   text-time="2006-10-22T15:11:32.265625Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="2f884e38aaad112c9e870c0034a5aea2"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:32.031250Z"/>
+</wc-entries>

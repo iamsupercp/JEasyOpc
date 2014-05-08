@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="39"
+   name=""
+   committed-date="2006-12-30T16:08:54.027881Z"
+   url="https://svn.sourceforge.net/svnroot/jeasyopc/JEasyOpc/src/examples/javafish/clients/opc"
+   last-author="arnal2"
+   kind="dir"
+   uuid="1b9a7a96-4b1e-0410-9bcb-890ecea9c50a"
+   repos="https://svn.sourceforge.net/svnroot/jeasyopc"
+   revision="39"/>
+<entry
+   committed-rev="31"
+   name="BrowserExample.java"
+   text-time="2006-11-18T09:56:34.250000Z"
+   committed-date="2006-11-18T10:25:08.745272Z"
+   checksum="c5986d52288b4d46cf4c7289a16c4f48"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:28.093750Z"/>
+<entry
+   committed-rev="40"
+   name="FoundOpcServersExample.java"
+   text-time="2007-01-10T17:25:23.765625Z"
+   committed-date="2007-02-18T18:01:25.622757Z"
+   checksum="dac94e0e1e508bab8568573d947e1a76"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:28.171875Z"
+   revision="40"/>
+<entry
+   committed-rev="30"
+   name="SynchReadWriteExample.java"
+   text-time="2007-02-08T18:23:06.859375Z"
+   committed-date="2006-11-17T19:34:15.303472Z"
+   checksum="e7d8c111ff2dd19756dbc5b3109bf81f"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:28.234375Z"/>
+<entry
+   committed-rev="31"
+   name="EmptyValueExample.java"
+   text-time="2007-02-08T17:57:24.203125Z"
+   committed-date="2006-11-18T10:25:08.745272Z"
+   checksum="a0499524345405b568a0dce09535a9da"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="29"
+   name="SynchReadGroupExample.java"
+   text-time="2006-12-03T18:49:53.703125Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="e90492631e9398d9d1729157e464cd8f"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:28.453125Z"/>
+<entry
+   committed-rev="29"
+   name="AsynchReadAndGroupActivityExample.java"
+   text-time="2006-11-05T19:15:26.453125Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="2e8216e7fb4db2fe916f1168dd271541"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:28.531250Z"/>
+<entry
+   committed-rev="37"
+   name="SynchReadItemExample.java"
+   text-time="2006-11-26T20:58:40.421875Z"
+   committed-date="2006-11-27T19:12:50.671622Z"
+   checksum="87b443186a090398c24d7a3a0827de10"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="38"
+   name="TryOpcConnectionExample.java"
+   text-time="2006-12-03T15:20:39.921875Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="2b3d5b7b98112002d03853bfffc8f277"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:28.593750Z"/>
+<entry
+   committed-rev="38"
+   name="JEasyOpcNoMemoryLeakExample.java"
+   text-time="2006-12-03T18:47:05.515625Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="7528b52f49e2a3178fc8b17e4fd84bdb"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="39"
+   name="TwoJEasyOpcExample.java"
+   text-time="2006-12-19T16:13:15.406250Z"
+   committed-date="2006-12-30T16:08:54.027881Z"
+   checksum="1f22e2fcd16ecd26bcd10abc2cbc5c53"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="29"
+   name="GroupCloneExample.java"
+   text-time="2006-11-05T19:15:55.984375Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="8add7bcfcd89a014b1e590ebad7b55f1"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:28.312500Z"/>
+<entry
+   committed-rev="33"
+   name="JEasyOpcExample.java"
+   text-time="2006-11-18T22:06:45.125000Z"
+   committed-date="2006-11-18T22:12:28.659760Z"
+   checksum="6ddc8c7720f2e6b9da095aaac6a9f2a4"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:28.375000Z"/>
+<entry
+   committed-rev="34"
+   name="TwoClientsAndAsynchReadExample.java"
+   text-time="2006-11-21T21:03:15.312500Z"
+   committed-date="2006-11-21T21:08:07.040591Z"
+   checksum="350e75d9ee7845b900a0170e78b5fea6"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:28.718750Z"/>
+<entry
+   committed-rev="29"
+   name="CoInitializeComExample.java"
+   text-time="2006-11-05T19:15:33.015625Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="7163a9e5cd84318048e356e553df4444"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:28.796875Z"/>
+<entry
+   committed-rev="29"
+   name="TryOpcConnection2Example.java"
+   text-time="2006-11-05T19:16:54.859375Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="84542274b974ea2258f23062763bea43"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:28.875000Z"/>
+</wc-entries>

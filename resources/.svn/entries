@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="39"
+   name=""
+   committed-date="2006-12-30T16:08:54.027881Z"
+   url="https://svn.sourceforge.net/svnroot/jeasyopc/JEasyOpc/resources"
+   last-author="arnal2"
+   kind="dir"
+   uuid="1b9a7a96-4b1e-0410-9bcb-890ecea9c50a"
+   repos="https://svn.sourceforge.net/svnroot/jeasyopc"
+   revision="39"/>
+<entry
+   committed-rev="34"
+   name="log4j.properties"
+   text-time="2006-11-21T20:54:07.640625Z"
+   committed-date="2006-11-21T21:08:07.040591Z"
+   checksum="d540900a069fd4f6954b3864750e95dd"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   name="javafish"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="32"
+   name=""
+   committed-date="2006-11-18T18:51:40.497323Z"
+   url="https://svn.sourceforge.net/svnroot/jeasyopc/JEasyOpc/src/junit/javafish/clients/opc/browser"
+   last-author="arnal2"
+   kind="dir"
+   uuid="1b9a7a96-4b1e-0410-9bcb-890ecea9c50a"
+   repos="https://svn.sourceforge.net/svnroot/jeasyopc"
+   revision="39"/>
+<entry
+   committed-rev="32"
+   name="JOpcBrowserTest.java"
+   text-time="2006-11-18T18:45:01.406250Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="bc5f7661fc1ca0d42a3a46057a19286e"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:27.046875Z"/>
+</wc-entries>

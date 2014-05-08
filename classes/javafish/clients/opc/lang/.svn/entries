@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2006-09-25T18:51:09.849372Z"
+   url="https://svn.sourceforge.net/svnroot/jeasyopc/JEasyOpc/src/java/javafish/clients/opc/lang"
+   last-author="arnal2"
+   kind="dir"
+   uuid="1b9a7a96-4b1e-0410-9bcb-890ecea9c50a"
+   repos="https://svn.sourceforge.net/svnroot/jeasyopc"
+   revision="39"/>
+<entry
+   committed-rev="2"
+   name="Translate.java"
+   text-time="2006-10-22T15:11:20.296875Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="a0784b9d23e87799081d659b386954c6"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:20.234375Z"/>
+</wc-entries>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="30"
+   name=""
+   committed-date="2006-11-17T19:34:15.303472Z"
+   url="https://svn.sourceforge.net/svnroot/jeasyopc/JEasyOpc/src/junit/javafish/clients/opc/variant"
+   last-author="arnal2"
+   kind="dir"
+   repos="https://svn.sourceforge.net/svnroot/jeasyopc"
+   revision="39"/>
+<entry
+   committed-rev="30"
+   name="VariantTest.java"
+   text-time="2006-11-17T18:39:02.609375Z"
+   committed-date="2006-11-17T19:34:15.303472Z"
+   checksum="cb97deda7f9cd2e766c7837a683bdbbf"
+   last-author="arnal2"
+   kind="file"/>
+</wc-entries>

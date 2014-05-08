@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="37"
+   name=""
+   committed-date="2006-11-27T19:12:50.671622Z"
+   url="https://svn.sourceforge.net/svnroot/jeasyopc/JEasyOpc/src/java/javafish/clients/opc/variant"
+   last-author="arnal2"
+   kind="dir"
+   uuid="1b9a7a96-4b1e-0410-9bcb-890ecea9c50a"
+   repos="https://svn.sourceforge.net/svnroot/jeasyopc"
+   revision="39"/>
+<entry
+   committed-rev="36"
+   name="VariantList.java"
+   text-time="2006-11-22T17:35:23.062500Z"
+   committed-date="2006-11-22T17:43:16.888000Z"
+   checksum="47accf51079b6a622405defb352f460c"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="30"
+   name="Variant.java"
+   text-time="2006-11-17T18:36:51.078125Z"
+   committed-date="2006-11-17T19:34:15.303472Z"
+   checksum="ae169a491f7dcc8cf7b2af0c9b2c3f12"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="37"
+   name="VariantTypes.java"
+   text-time="2006-11-26T21:11:21.718750Z"
+   committed-date="2006-11-27T19:12:50.671622Z"
+   checksum="fee30961826cc204d75f9f9de56748c3"
+   last-author="arnal2"
+   kind="file"/>
+</wc-entries>

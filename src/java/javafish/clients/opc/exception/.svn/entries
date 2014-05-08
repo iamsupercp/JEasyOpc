@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="32"
+   name=""
+   committed-date="2006-11-18T18:51:40.497323Z"
+   url="https://svn.sourceforge.net/svnroot/jeasyopc/JEasyOpc/src/java/javafish/clients/opc/exception"
+   last-author="arnal2"
+   kind="dir"
+   uuid="1b9a7a96-4b1e-0410-9bcb-890ecea9c50a"
+   repos="https://svn.sourceforge.net/svnroot/jeasyopc"
+   revision="39"/>
+<entry
+   committed-rev="32"
+   name="SynchReadException.java"
+   text-time="2006-11-18T16:47:31.828125Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="f1edcecf0d3d0109e788dd4f6388bd72"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:22.468750Z"/>
+<entry
+   committed-rev="32"
+   name="UnableBrowseLeafException.java"
+   text-time="2006-11-18T16:48:30.031250Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="15bc955ed4e174287dd6184f21df3dfc"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:22.531250Z"/>
+<entry
+   committed-rev="32"
+   name="OpcExistsException.java"
+   text-time="2006-11-18T16:43:33.859375Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="38698d9678a1770745028d1968043f48"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="32"
+   name="OpcException.java"
+   text-time="2006-11-18T15:00:29.515625Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="99ed6c6a90120eb317a43a7bc8a4a1b8"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="32"
+   name="Asynch10ReadException.java"
+   text-time="2006-11-18T15:11:17.984375Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="5ade39705eb885914272feb186b42edf"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:22.593750Z"/>
+<entry
+   committed-rev="32"
+   name="Asynch10UnadviseException.java"
+   text-time="2006-11-18T15:11:25.703125Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="0519981b11bfadb53b8e992d54f8bca8"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:22.859375Z"/>
+<entry
+   committed-rev="32"
+   name="OpcSynchException.java"
+   text-time="2006-11-18T15:08:12.312500Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="1e89006b264f184b8508c1a842724219"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="32"
+   name="OpcAsynchException.java"
+   text-time="2006-11-18T15:07:21.328125Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="69aca53eead3789ed5d2d7e3aa2bd6de"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="32"
+   name="GroupExistsException.java"
+   text-time="2006-11-18T16:43:43.921875Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="7b28ae27042f05774b7053ef81ffeddd"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.078125Z"/>
+<entry
+   committed-rev="32"
+   name="UnableAddGroupException.java"
+   text-time="2006-11-18T16:47:54.875000Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="4a35efa3c6d4c0aa644a4348b5fb39dd"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.156250Z"/>
+<entry
+   committed-rev="32"
+   name="SynchWriteException.java"
+   text-time="2006-11-18T16:47:37.578125Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="6353c55c0f8362246f7a74ead5327ea2"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.359375Z"/>
+<entry
+   committed-rev="32"
+   name="UnableRemoveGroupException.java"
+   text-time="2006-11-18T16:49:11.328125Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="44a873593348a892113b3ce76408b079"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.515625Z"/>
+<entry
+   committed-rev="32"
+   name="UnableIBrowseException.java"
+   text-time="2006-11-18T16:48:37.562500Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="112aeac9ae016787453469e624a654ae"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.437500Z"/>
+<entry
+   committed-rev="32"
+   name="OpcSignException.java"
+   text-time="2006-11-18T15:06:10.093750Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="af91365bcea284cc5f3d77d698e32e9b"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="32"
+   name="UnableRemoveItemException.java"
+   text-time="2006-11-18T16:49:16.375000Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="78b1df2ce48e1e329eb62c01d9f8bf88"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.578125Z"/>
+<entry
+   committed-rev="32"
+   name="NotFoundServersException.java"
+   text-time="2006-11-18T16:47:10.875000Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="c2e2cd04cd4466989d5e2fa256af64e6"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.656250Z"/>
+<entry
+   committed-rev="29"
+   name="VariantTypeException.java"
+   text-time="2006-11-14T17:15:55.421875Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="f0f0a628a6836d31638da55c9d8b9ab3"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="32"
+   name="ItemActivityException.java"
+   text-time="2006-11-18T16:46:49.906250Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="0aba1f1e650fc17ec613c105f406aebc"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.890625Z"/>
+<entry
+   committed-rev="32"
+   name="HostException.java"
+   text-time="2006-11-18T16:46:40.140625Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="72935e02f526f6687276b971a11d3626"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.953125Z"/>
+<entry
+   committed-rev="32"
+   name="ConnectivityException.java"
+   text-time="2006-11-18T16:42:06.000000Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="a3247064ca855f59be8e066cb73e1566"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:24.093750Z"/>
+<entry
+   committed-rev="32"
+   name="Asynch20ReadException.java"
+   text-time="2006-11-18T16:29:04.343750Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="d104d4bc8305c507a4debe1fc5cc9450"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:22.796875Z"/>
+<entry
+   committed-rev="32"
+   name="CoInitializeException.java"
+   text-time="2006-11-18T15:00:40.421875Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="34b5687a1b499fe0e2a613ac80b46793"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:22.703125Z"/>
+<entry
+   committed-rev="32"
+   name="OpcBrowserException.java"
+   text-time="2006-11-18T15:04:43.328125Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="41302a7dd20215790aa93c6b2bab379b"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="32"
+   name="OpcRuntimeException.java"
+   text-time="2006-11-18T14:59:59.875000Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="67582958bfd86d88a6a0c20aa8948a33"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="32"
+   name="Asynch20UnadviseException.java"
+   text-time="2006-11-18T16:41:13.828125Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="2fae4c23b22a74afa63159f4ec6e1aa7"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.000000Z"/>
+<entry
+   committed-rev="32"
+   name="CoUninitializeException.java"
+   text-time="2006-11-18T15:02:21.312500Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="76d335d9f9f66c715721f17c2f39037b"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:22.921875Z"/>
+<entry
+   committed-rev="32"
+   name="UnableAddItemException.java"
+   text-time="2006-11-18T16:48:03.968750Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="36fbf3940389ad0e08586f0f8ac28541"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.296875Z"/>
+<entry
+   committed-rev="32"
+   name="ItemExistsException.java"
+   text-time="2006-11-18T16:47:00.109375Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="4484922c1b3ea24c5e5070d008f2a1d1"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.218750Z"/>
+<entry
+   committed-rev="32"
+   name="OpcActivityException.java"
+   text-time="2006-11-18T15:10:06.109375Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="85deed2b8b5e228d5c01fc7a09def8e3"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="29"
+   name="VariantInternalException.java"
+   text-time="2006-11-14T16:56:08.171875Z"
+   committed-date="2006-11-14T17:36:37.648029Z"
+   checksum="aaedc4dde9de45576e6845ce26228fa2"
+   last-author="arnal2"
+   kind="file"/>
+<entry
+   committed-rev="32"
+   name="UnableBrowseBranchException.java"
+   text-time="2006-11-18T16:48:20.937500Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="bfc0fbac31d5ef484f34f4d86efd0e3c"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.734375Z"/>
+<entry
+   committed-rev="32"
+   name="GroupActivityException.java"
+   text-time="2006-11-18T16:42:18.156250Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="7461f06680b17fd75bc9e000a07581c4"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:23.812500Z"/>
+<entry
+   committed-rev="32"
+   name="GroupUpdateTimeException.java"
+   text-time="2006-11-18T16:46:26.031250Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="7ee2c96eb8367c25931a0df2d9bdd8d2"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:24.031250Z"/>
+<entry
+   committed-rev="32"
+   name="ComponentNotFoundException.java"
+   text-time="2006-11-18T16:41:48.046875Z"
+   committed-date="2006-11-18T18:51:40.497323Z"
+   checksum="3a5a267d74f810ae54565e512173e97a"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:24.171875Z"/>
+</wc-entries>

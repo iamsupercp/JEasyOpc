@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="36"
+   name=""
+   committed-date="2006-11-22T17:43:16.888000Z"
+   url="https://svn.sourceforge.net/svnroot/jeasyopc/JEasyOpc/src/java/javafish/clients/opc/asynch"
+   last-author="arnal2"
+   kind="dir"
+   uuid="1b9a7a96-4b1e-0410-9bcb-890ecea9c50a"
+   repos="https://svn.sourceforge.net/svnroot/jeasyopc"
+   revision="39"/>
+<entry
+   committed-rev="36"
+   name="AsynchEvent.java"
+   text-time="2006-11-21T21:19:30.156250Z"
+   committed-date="2006-11-22T17:43:16.888000Z"
+   checksum="ef1f074afa00ec593d3b4e1ba5e7ae43"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:21.406250Z"/>
+<entry
+   committed-rev="36"
+   name="OpcAsynchGroupListener.java"
+   text-time="2006-11-21T21:22:43.078125Z"
+   committed-date="2006-11-22T17:43:16.888000Z"
+   checksum="5ab9819f0100a93993559db010de9555"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:21.468750Z"/>
+</wc-entries>

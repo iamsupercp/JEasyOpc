@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38"
+   name=""
+   committed-date="2006-12-03T18:53:07.139181Z"
+   url="https://svn.sourceforge.net/svnroot/jeasyopc/JEasyOpc/src/java/javafish/clients/opc/component"
+   last-author="arnal2"
+   kind="dir"
+   uuid="1b9a7a96-4b1e-0410-9bcb-890ecea9c50a"
+   repos="https://svn.sourceforge.net/svnroot/jeasyopc"
+   revision="39"/>
+<entry
+   committed-rev="36"
+   name="OpcItem.java"
+   text-time="2006-11-21T21:52:58.625000Z"
+   committed-date="2006-11-22T17:43:16.888000Z"
+   checksum="331697573d10ca86c3a13aa5f72d1c45"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:20.453125Z"/>
+<entry
+   committed-rev="38"
+   name="OpcGroup.java"
+   text-time="2006-12-03T13:24:27.359375Z"
+   committed-date="2006-12-03T18:53:07.139181Z"
+   checksum="f0cb6b202f7d2edf5b48c47782875fb1"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:20.515625Z"/>
+</wc-entries>
